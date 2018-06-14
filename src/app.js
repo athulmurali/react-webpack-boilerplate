@@ -26,7 +26,7 @@ class HelloApp extends React.Component {
     render()
     {
         return <div>
-               <h1>aasdsdasdasdasdasdasdasdas</h1>
+               <h1>Hola!</h1>
             </div>;
     }
 
